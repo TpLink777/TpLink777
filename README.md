@@ -1,4 +1,9 @@
-![Aditya Kanoi Banner](https://github.com/Adityakanoi2001/Adityakanoi2001/blob/8b3abf28d4d62728caf9ee9c177f48b058cbb997/assets/header.png?raw=true)
+<p align="center">
+  <a href="https://arjuncvinod.github.io">
+    <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" alt="MasterHead" style="width: 100%; height: 550px; object-fit: cover;">
+  </a>
+</p>
+
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hello, I'm Stiven Gomez. <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"  ></h2>
 
