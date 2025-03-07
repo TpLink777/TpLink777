@@ -10,6 +10,7 @@
 
 
 <h2><img height="50" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"> About me </h2>  <img align="right" src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+<br>
 
 👨🏻‍💻 About me
 🎓 I am currently studying a Technology in Software Analysis and Development.\
@@ -23,7 +24,8 @@
 
 <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" alt="Night Coding" align="right" width="330"/>
 
-
+<br>
+<br>
 ### 🛠 &nbsp;Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -38,7 +40,8 @@
 
 
 
-
+<br>
+<br>
 
 
 
@@ -54,10 +57,11 @@
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
-
-
+<br>
+<br>
 
 ### ⚙️ &nbsp;GitHub Analytics
+<br>
 
 <p align="center">
   <a href="https://github.com/TpLink777/">
@@ -78,7 +82,7 @@
 
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2> <br>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TpLink777&theme=tokyo-night)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TpLink777&theme=dracula)
 
 
 
@@ -106,5 +110,8 @@
   </a>
 </p>
 
+<p align="center">
+ <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=90&section=footer"/> 
+</p>
 
 
