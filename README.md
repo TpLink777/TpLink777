@@ -6,13 +6,14 @@
 
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hello, I'm Stiven Gomez. <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> <img align="right" src="https://komarev.com/ghpvc/?username=TpLink777&label=Profile%20views&color=blueviolet&style=for-the-badge&logo=eye" alt="TpLink777"/>
+<img height="50" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">
 </h2> 
 
 
 
 
 
-<h2><img height="50" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"> About me </h2>  <img align="right" src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+<h2> About me    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="32">&nbsp; </h2><img align="right" src='https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5' width='320'>
 
 <br>
 
@@ -50,7 +51,9 @@
 
 
 
- 🧰 &nbsp;Version Controll & Tools 
+ 
+ 
+<h2>🧰 &nbsp;Version Controll & Tools  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="38">&nbsp;</h2>
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
@@ -63,8 +66,8 @@
 
 <br>
 <br>
+<h2>⚙️ &nbsp;GitHub Analytics <img src="https://user-images.githubusercontent.com/74038190/216658113-c947be31-78e5-4064-9cb5-7d23b49164e6.gif" width="38">&nbsp;</h2>
 
-⚙️ &nbsp;GitHub Analytics
 <br>
 
 <p align="center">
@@ -94,8 +97,8 @@
 <br>
 
 
+<h2> 🤝🏻 &nbsp;Connect with Me <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="38">&nbsp;</h2>
 
- 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
   <!-- LinkedIn -->
