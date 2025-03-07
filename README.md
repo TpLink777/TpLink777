@@ -30,7 +30,7 @@
 
 <br>
 <br>
-### 🛠 &nbsp;Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
+ <h2>🛠 Tech Stack  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
@@ -50,7 +50,7 @@
 
 
 
-### 🧰 &nbsp;Version Controll & Tools 
+ 🧰 &nbsp;Version Controll & Tools 
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
@@ -64,7 +64,7 @@
 <br>
 <br>
 
-### ⚙️ &nbsp;GitHub Analytics
+⚙️ &nbsp;GitHub Analytics
 <br>
 
 <p align="center">
@@ -82,7 +82,7 @@
 
 <br>
 <br>
-<br>
+
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2> <br>
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TpLink777&theme=dracula)
@@ -90,11 +90,12 @@
 
 
 
+<br>
+<br>
 
 
 
-
-### 🤝🏻 &nbsp;Connect with Me
+ 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
   <!-- LinkedIn -->
