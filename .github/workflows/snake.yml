@@ -17,21 +17,25 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
+      - name: Generate github contribution grid snake
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-              dist/github-snake.svg
-                dist/github-snake-dark.svg?palette=github-dark
-                dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake-light.svg?palette=github-light
+            dist/github-snake-arcade.svg?palette=github-arcade
+            dist/github-snake-gruvbox.svg?palette=github-gruvbox
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: List output files
         run: ls -R dist # Verifica si los archivos realmente fueron creados
 
-      - name: Push github-contribution-grid-snake.svg to the output branch
+      - name: Push github-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
