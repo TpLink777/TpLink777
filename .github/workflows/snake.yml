@@ -1,29 +1,27 @@
-name: Generate Snake
+name: Generate Snake Game
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Se ejecuta todos los días a medianoche UTC
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # Se ejecuta automáticamente cada día a medianoche UTC
+  workflow_dispatch:  # Permite ejecución manual desde "Actions"
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Clonar el repositorio
-        uses: actions/checkout@v2
+      - name: Clonar repositorio
+        uses: actions/checkout@v3
 
-      - name: Generar Snake Animation
-        uses: Platane/snk@master
+      - name: Generar Snake Game
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            github-contribution-grid-snake.svg
-            github-contribution-grid-snake-dark.svg?palette=github-dark
+          svg_out_path: dist/snake.svg  # Corrige la ruta de salida
 
-      - name: Subir cambios al repositorio
-        run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
-          git add .
-          git commit -m "Actualizar Snake Grid"
-          git push
+      - name: Subir archivo a la rama output
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
