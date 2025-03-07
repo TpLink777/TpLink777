@@ -55,10 +55,10 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <a href="">
+  <a href="https://github.com/TpLink777/">
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TpLink777&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
   </a>
-  <a href="">
+  <a href="https://github.com/TpLink777/">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=TpLink777&theme=radical&hide_border=false&include_all_commits=false&count_private=false"/>
   </a>
 </p>
@@ -92,6 +92,8 @@
 
 
 <div align="center">
-  <a href="https://github.com/Adityakanoi2001/">
-  <img src = "https://github.com/TpLink777/TpLink777/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game">
+  <a href="https://github.com/TpLink777">
+    <img src="https://github.com/TpLink777/TpLink777/blob/output/github-contribution-grid-snake.svg" alt="Snake Game">
+  </a>
 </div>
+
