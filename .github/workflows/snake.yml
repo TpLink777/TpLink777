@@ -2,25 +2,29 @@ name: Generate Snake Game
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Se ejecuta cada día a medianoche
-  workflow_dispatch:  # Permite ejecución manual
+    - cron: "0 0 * * *"  # Se ejecuta todos los días a medianoche
+  workflow_dispatch:  # Permite ejecutarlo manualmente
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v4  # Usa la versión más reciente
+        uses: actions/checkout@v4
 
       - name: Generate Snake Animation
-        uses: Platane/snk@v3  # Asegúrate de usar la última versión
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          outputs: github-contribution-grid-snake.svg
 
-      - name: Push Snake Animation
-        uses: actions/upload-artifact@v4  # Actualiza a la última versión
-        with:
-          name: snake-animation
-          path: dist
-
+      - name: Commit and Push
+        run: |
+          git config --global user.email "actions@github.com"
+          git config --global user.name "GitHub Actions"
+          git checkout -B output
+          mkdir -p output
+          mv github-contribution-grid-snake.svg output/
+          git add output/github-contribution-grid-snake.svg
+          git commit -m "Update Snake animation" || echo "No changes to commit"
+          git push origin output --force
