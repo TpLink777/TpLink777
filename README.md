@@ -93,7 +93,8 @@
 
 <div align="center">
   <a href="https://github.com/TpLink777">
-    <img src="https://raw.githubusercontent.com/TpLink777/TpLink777/output/github-contribution-grid-snake.svg?palette=github-gruvbox" alt="Snake Game">
+ <img src="https://raw.githubusercontent.com/TpLink777/TpLink777/output/github-contribution-grid-snake.svg?palette=github-gruvbox" alt="Snake Game">
+
   </a>
 </div>
 
