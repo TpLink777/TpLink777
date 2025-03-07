@@ -5,11 +5,15 @@
 </p>
 
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hello, I'm Stiven Gomez. <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"  ></h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hello, I'm Stiven Gomez. <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> <img align="right" src="https://komarev.com/ghpvc/?username=TpLink777&label=Profile%20views&color=blueviolet&style=for-the-badge&logo=eye" alt="TpLink777"/>
+</h2> 
+
+
 
 
 
 <h2><img height="50" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"> About me </h2>  <img align="right" src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+
 <br>
 
 👨🏻‍💻 About me
@@ -79,7 +83,6 @@
 <br>
 <br>
 <br>
-
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2> <br>
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TpLink777&theme=dracula)
@@ -109,9 +112,10 @@
     <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"/>
   </a>
 </p>
+<br>
 
 <p align="center">
- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=90&section=footer"/> 
+ <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 </p>
 
 
