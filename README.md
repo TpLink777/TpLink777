@@ -13,8 +13,7 @@
 
 
 
-<h2> About me    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="32">&nbsp; </h2><img align="right" src='https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5' width='320'>
-
+<h2> About me    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="32">&nbsp; </h2>
 <br>
 
 👨🏻‍💻 About me
