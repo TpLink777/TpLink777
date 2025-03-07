@@ -1,4 +1,4 @@
-name: generate animation
+name: Generate Snake Animation
 
 on:
   schedule:
@@ -24,6 +24,9 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-light.svg?palette=github-light
+            dist/github-contribution-grid-snake-arcade.svg?palette=github-arcade
+            dist/github-contribution-grid-snake-gruvbox.svg?palette=github-gruvbox
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
