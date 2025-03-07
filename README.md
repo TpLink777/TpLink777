@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://arjuncvinod.github.io">
-    <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" alt="MasterHead" style="width: 100%; height: 550px; object-fit: cover;">
+    <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" alt="MasterHead">
   </a>
 </p>
 
