@@ -91,6 +91,7 @@
 
 <div align="center">
   <img src="https://github.com/TpLink777/certificaciones/blob/main/scrum-foundation-learner.png?raw=true" width="200" />
+   <img src="https://github.com/TpLink777/certificaciones/blob/main/business-agility-learner.png?raw=true" width="200" />
 </div>
 
 Puedes verificar esta certificación en [Credly](https://www.credly.com/badges/817773ed-f635-4a14-9515-f5d348ecc086).
