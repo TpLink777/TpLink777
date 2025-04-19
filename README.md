@@ -85,6 +85,11 @@
 <br>
 <br>
 
+<h2> 🧑🏻‍🏫 &nbsp;some of my certifications <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="817773ed-f635-4a14-9515-f5d348ecc086" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>&nbsp;</h2>
+
+<br>
+<br>
+
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2> <br>
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TpLink777&theme=dracula)
