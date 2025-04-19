@@ -94,8 +94,9 @@
    <img src="https://github.com/TpLink777/certificaciones/blob/main/business-agility-learner.png?raw=true" width="200" />
 </div>
 
-Puedes verificar esta certificación en [Credly](https://www.credly.com/badges/817773ed-f635-4a14-9515-f5d348ecc086).
-
+<div align="center">
+      Puedes verificar esta certificación en <a href="https://www.credly.com/badges/817773ed-f635-4a14-9515-f5d348ecc086" style="text-decoration:none; color:inherit;">Credly</a>.
+</div>
 
 <br>
 <br>
