@@ -88,7 +88,7 @@
 ## 🧑🏻‍🏫 Some of the certifications
 
 ### Scrum Foundation - CertiProf
-![Scrum Foundation Badge](./certificaciones/business-agility-learner.png)
+![Scrum Foundation Badge](./business-agility-learner.png)
 
 Puedes verificar esta certificación en [Credly](https://www.credly.com/badges/817773ed-f635-4a14-9515-f5d348ecc086).
 
