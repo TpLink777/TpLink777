@@ -95,7 +95,7 @@
 </div>
 
 <div align="center">
-      Puedes verificar esta certificación en <a href="https://www.credly.com/badges/817773ed-f635-4a14-9515-f5d348ecc086" style="text-decoration:none; color:inherit;">Credly</a>.
+      Puedes verificar esta certificación en mi perfil en <a href="https://www.credly.com/users/stiven-gomez-mazo" style="text-decoration:none; color:red;">Credly</a>.
 </div>
 
 <br>
