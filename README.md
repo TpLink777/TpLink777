@@ -131,14 +131,14 @@
 
 <p align="center">
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/stiven-gomez-mazo-9b73a5261/">
+  <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
   <!-- Gmail -->
-  <a href="mailto:stivengomezmazo7@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
-  </a>
+ <a href="mailto:stivengomezmazo7@gmail.com?subject=Contacto%20desde%20mi%20portafolio&body=Hola%20Stiven%2C%20quiero%20hablar%20contigo%20sobre...">
+  <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
+</a>
 
   <!-- Facebook -->
   <a href="https://www.facebook.com/profile.php?id=100048709600808">
