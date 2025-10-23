@@ -136,7 +136,7 @@
   </a>
 
   <!-- Gmail -->
- <a href="mailto:stivengomezmazo7@gmail.com?subject=Contacto%20desde%20mi%20portafolio&body=Hola%20Stiven%2C%20quiero%20hablar%20contigo%20sobre...">
+ <a href="mailto:stivengomezmazo7@gmail.com?subject=Contacto%20desde%20mi%20portafolio&body=Hola%20Stiven%2C%20quiero%20hablar%20contigo%20sobre..." target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
 </a>
 
