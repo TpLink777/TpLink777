@@ -55,8 +55,8 @@
 ![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Knex.js](https://img.shields.io/badge/Knex.js-E16426?style=for-the-badge&logo=knex&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white) <br/>
+![Knex.js](https://img.shields.io/badge/Knex.js-E16426?style=for-the-badge&logo=knex&logoColor=white)<br/>
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white) 
 ![Open Code](https://img.shields.io/badge/Open%20Code-1f425f?style=for-the-badge&logo=codefactor&logoColor=white)
 ![Windsurf](https://img.shields.io/badge/Windsurf-00AEEF?style=for-the-badge&logo=windicss&logoColor=white)
 ![AI](https://img.shields.io/badge/Artificial_Intelligence-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
