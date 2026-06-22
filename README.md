@@ -5,7 +5,7 @@
 </p>
 
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hello, I'm Stiven Gomez. <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> <img align="right" src="https://komarev.com/ghpvc/?username=TpLink777&label=Profile%20views&color=blueviolet&style=for-the-badge&logo=eye" alt="TpLink777"/>
+<h2 align="left">Hello, I'm Stiven Gomez Mazo.<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> <img align="right" src="https://komarev.com/ghpvc/?username=TpLink777&label=Profile%20views&color=blueviolet&style=for-the-badge&logo=eye" alt="TpLink777"/>
 <img height="50" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">
 </h2> 
 
@@ -46,6 +46,13 @@
 ![Handlebars](https://img.shields.io/badge/Handlebars.js-f0772b?style=for-the-badge&logo=handlebarsdotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Knex.js](https://img.shields.io/badge/Knex.js-E16426?style=for-the-badge&logo=knex&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
+![Open Code](https://img.shields.io/badge/Open%20Code-1f425f?style=for-the-badge&logo=codefactor&logoColor=white)
 ![Windsurf](https://img.shields.io/badge/Windsurf-00AEEF?style=for-the-badge&logo=windicss&logoColor=white)
 ![AI](https://img.shields.io/badge/Artificial_Intelligence-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
 
@@ -66,13 +73,13 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-FF6600?style=for-the-badge&logo=agora&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Antigravity IDE](https://img.shields.io/badge/Antigravity%20IDE-1A1A24?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
 
@@ -109,7 +116,7 @@
 </div>
 
 <div align="center">
-      Puedes verificar esta certificación en mi perfil en <a href="https://www.credly.com/users/stiven-gomez-mazo" style="text-decoration:none; color:red;">Credly</a>.
+     You can verify this certification on my profile at <a href="https://www.credly.com/users/stiven-gomez-mazo" style="text-decoration:none; color:red;">Credly</a>.
 </div>
 
 <br>
