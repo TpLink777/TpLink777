@@ -10,21 +10,22 @@
 </h2> 
 
 
+<br/>
 
 
-
-<h2>👨🏻‍💻 About me    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="32">&nbsp; </h2>
+<h2>👨🏻‍💻 About me  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="32">&nbsp; </h2>
 <br>
 
-👨🏻‍💻 About me
-🎓 I am currently studying a Technology in Software Analysis and Development.\
-💡 I am passionate about programming, problem solving, and creating innovative solutions with software.\
-🌱 I am constantly learning and improving my skills in Java, Python, JavaScript, Express, Django, among other technologies.\
-🚀 I am interested in web, backend, and database development, and I enjoy working on projects that challenge me to improve.\
-✍️ In my free time, I dedicate myself to studying new technologies, practicing what I have learned, and solving programming challenges. I also enjoy improving my technical skills.\
-💬 Feel free to contact me if you have questions or want to collaborate on a project.\
-✉️ You can email me at stivengomezmazo7@gmail.com! I'll try to respond as soon as possible.\
-⚡ Fun fact: I'm always looking for new challenges and opportunities to grow as a developer.
+🎓 **Software Analysis and Development Technologist** (Internship/Practicum successfully completed).\
+💼 **Actively seeking new career opportunities** and ready to add value to an engineering team.\
+🌱 **Continuous Learning:** Currently deep-diving into modern architectures and cutting-edge tech like **NestJS, Next.js, and AI**.\
+🚀 **Core Interests:** Backend Development, web architecture, database management, and infrastructure optimization.\
+✍️ **In my free time:** I build personal projects, solve logical coding challenges, and experiment with new tools to stay ahead of tech trends.\
+
+### 🌐 Let's Connect!
+💬 Feel free to reach out if you have an open position, a question, or want to collaborate on a project.\
+✉️ Drop me a line at **stivengomezmazo7@gmail.com** (I'll get back to you as soon as possible).\
+⚡ **Fun fact:** I always have a side project running to immediately put theory into practice.
 
 <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" alt="Night Coding" align="right" width="330"/>
 
@@ -46,12 +47,16 @@
 ![Handlebars](https://img.shields.io/badge/Handlebars.js-f0772b?style=for-the-badge&logo=handlebarsdotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+<br/>
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Knex.js](https://img.shields.io/badge/Knex.js-E16426?style=for-the-badge&logo=knex&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white) <br/>
 ![Open Code](https://img.shields.io/badge/Open%20Code-1f425f?style=for-the-badge&logo=codefactor&logoColor=white)
 ![Windsurf](https://img.shields.io/badge/Windsurf-00AEEF?style=for-the-badge&logo=windicss&logoColor=white)
 ![AI](https://img.shields.io/badge/Artificial_Intelligence-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
@@ -76,6 +81,7 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) <br/>
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-FF6600?style=for-the-badge&logo=agora&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
