@@ -141,18 +141,6 @@
 
 <h2> 🤝🏻 &nbsp;Connect with Me <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="38">&nbsp;</h2>
 
-
-<p align="center">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile">
-   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <!-- Facebook -->
-  <a href="https://www.facebook.com/profile.php?id=100048709600808">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"/>
-  </a>
-</p>
 <br>
 
 <p align="center">
