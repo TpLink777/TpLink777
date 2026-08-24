@@ -130,7 +130,7 @@
 
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2> <br>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TpLink777&theme=high-contrast)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TpLink777&theme=dracula)
 
 
 
