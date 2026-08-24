@@ -125,6 +125,18 @@
      You can verify this certification on my profile at <a href="https://www.credly.com/users/stiven-gomez-mazo" style="text-decoration:none; color:red;">Credly</a>.
 </div>
 
+
+<br>
+<br>
+
+
+## 🖊️ Activity log
+
+<p align="center">
+  <img src="https://github.com/TpLink777/TpLink777/blob/output/github-snake-dark.svg" alt="snake" />
+</p>
+
+
 <br>
 <br>
 
@@ -133,14 +145,7 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TpLink777&theme=dracula)
 
 
-
-
 <br>
-<br>
-
-
-<h2> 🤝🏻 &nbsp;Connect with Me <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="38">&nbsp;</h2>
-
 <br>
 
 <p align="center">
