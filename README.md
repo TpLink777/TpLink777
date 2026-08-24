@@ -63,13 +63,8 @@
 
 
 
-
-
 <br>
 <br>
-
-
-
 
  
  
@@ -95,18 +90,20 @@
 
 <br>
 
-<p align="center">
-  <a href="https://github.com/TpLink777/">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TpLink777&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-  </a>
-  <a href="https://github.com/TpLink777/">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=TpLink777&theme=radical&hide_border=false&include_all_commits=false&count_private=false"/>
-  </a>
-</p>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TpLink777&theme=radical" alt="Profile Details" />
+</div>
 
-<p align="center">
-  <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=TpLink777&theme=radical&hide_border=false"/>
-</p>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TpLink777&theme=radical" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TpLink777&theme=radical" alt="Most Commit Language" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TpLink777&theme=radical" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TpLink777&theme=radical&utcOffset=8" alt="Productive Time" />
+</div>
+
 
 <br>
 <br>
