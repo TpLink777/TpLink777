@@ -18,7 +18,7 @@
 
 🎓 **Software Analysis and Development Technologist** (Internship/Practicum successfully completed).\
 💼 **Actively seeking new career opportunities** and ready to add value to an engineering team.\
-🌱 **Continuous Learning:** Currently deep-diving into modern architectures and cutting-edge tech like **NestJS, Next.js, and AI**.\
+🌱 **Continuous Learning:** Currently deep-diving into modern architectures and cutting-edge tech like **NestJS, Next.js, Java, SpringBoot, Python and AI**.\
 🚀 **Core Interests:** Backend Development, web architecture, database management, and infrastructure optimization.\
 ✍️ **In my free time:** I build personal projects, solve logical coding challenges, and experiment with new tools to stay ahead of tech trends.\
 
