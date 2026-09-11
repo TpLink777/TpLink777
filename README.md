@@ -18,7 +18,6 @@
 
 🎓 **Software Analysis and Development Technologist** (Internship/Practicum successfully completed).\
 💼 **Actively seeking new career opportunities** and ready to add value to an engineering team.\
-🌱 **Continuous Learning:** Currently deep-diving into modern architectures and cutting-edge tech like **NestJS, Next.js, Java, SpringBoot, Python and AI**.\
 🚀 **Core Interests:** Backend Development, web architecture, database management, and infrastructure optimization.\
 ✍️ **In my free time:** I build personal projects, solve logical coding challenges, and experiment with new tools to stay ahead of tech trends.\
 
@@ -86,6 +85,39 @@
 
 <br>
 <br>
+
+ 
+<h2>&nbsp;📚 What I'm learning &nbsp;</h2>
+
+### Current focus
+- NestJS
+- PostgreSQL
+- MongoDB
+- Docker
+- Authentication & Authorization
+- Ingles
+
+### Next learning
+- Java
+- Spring Boot
+- Spring Security
+- JPA / Hibernate
+- JUnit 5 / Mockito
+- Microservices
+- Spring Cloud
+- Java EE
+
+### Future exploring
+- Data Analysis
+- AWS
+- Next.js
+- CI/CD
+- Nginx
+
+
+<br>
+<br>
+
 <h2>⚙️ &nbsp;GitHub Analytics <img src="https://user-images.githubusercontent.com/74038190/216658113-c947be31-78e5-4064-9cb5-7d23b49164e6.gif" width="38">&nbsp;</h2>
 
 <br>
