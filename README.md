@@ -89,7 +89,7 @@
  
 <h2>&nbsp;📚 What I'm learning &nbsp;</h2>
 
-<p align="center"> <i>Technologies and areas I'm currently learning and exploring.</i> </p>
+<h3 align="center"> <i>Technologies and areas I'm currently learning and exploring.</i> </h3>
 
 <br>
 
