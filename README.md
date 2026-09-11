@@ -130,7 +130,7 @@
 ## 🧑🏻‍🏫 Some of the certifications
 
 <div align='center'>
-  <h2>Scrum Foundation - Agility Business - CertiProf</h2>
+  <h3>Scrum Foundation - Agility Business - CertiProf</h2>
 </div>
 <div align="center">
   <img src="https://github.com/TpLink777/certificaciones/blob/main/scrum-foundation-learner.png?raw=true" width="200" />
