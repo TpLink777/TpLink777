@@ -86,48 +86,10 @@
 <br>
 <br>
 
-
  
-<h2>&nbsp;📚 What I'm learning &nbsp;</h2>
-
-<h3 align="center"> <i>Technologies and areas I'm currently learning and exploring.</i> </h3>
+<h2>&nbsp;⚡ Coding Activity &nbsp;</h2>
 
 <br>
-
-<table align="center"> <tr> <td width="33%" valign="top">
-
-<h3 align="center"> Current Focus</h3>
-
-<p align="center"> <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> </p>
-
-</td>
-
-<td width="33%" valign="top">
-
-<h3 align="center"> Next Learning</h3>
-
-<p align="center"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"> <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"> </p>
-
-
-</td>
-
-<td width="33%" valign="top">
-
-<h3 align="center"> Future Exploring</h3>
-
-<p align="center"> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"> <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"> 
-<img src="https://img.shields.io/badge/Data_Analysis-232F3E7?style=for-the-badge&logo=dataAnalysis&logoColor=white">
-<img src="https://img.shields.io/badge/CI/CD-828282?style=for-the-badge&logo=dataAnalysis&logoColor=white">
-</p>
-
-
-</td> </tr> </table>
-
-
-<br>
-<br>
-
-
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TpLink777&theme=radical" alt="Profile Details" />
