@@ -19,7 +19,7 @@
 🎓 **Software Analysis and Development Technologist** (Internship/Practicum successfully completed).\
 💼 **Actively seeking new career opportunities** and ready to add value to an engineering team.\
 🚀 **Core Interests:** Backend Development, web architecture, database management, and infrastructure optimization.\
-✍️ **In my free time:** I build personal projects, solve logical coding challenges, and experiment with new tools to stay ahead of tech trends.\
+✍️ **In my free time:** I build personal projects, solve logical coding challenges, and experiment with new tools to stay ahead of tech trends.
 
 ### 🌐 Let's Connect!
 💬 Feel free to reach out if you have an open position, a question, or want to collaborate on a project.\
