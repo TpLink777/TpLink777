@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://arjuncvinod.github.io">
-    <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" alt="MasterHead">
+    <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif"alt="MasterHead">
   </a>
 </p>
 
 
-<h2 align="left">Hello, I'm Stiven Gómez Mazo.<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> <img align="right" src="https://komarev.com/ghpvc/?username=TpLink777&label=Profile%20views&color=blueviolet&style=for-the-badge&logo=eye" alt="TpLink777"/>
+<h2 align="left">Hello, I'm Stiven Gómez Mazo.<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> <img align="right"src="https://komarev.com/ghpvc/?username=TpLink777&label=Profile%20views&color=blueviolet&style=for-the-badge&logo=eye" alt="TpLink777"/>
 <img height="50" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">
 </h2> 
 
