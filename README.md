@@ -121,7 +121,7 @@
 </div>
 
 <div align="center">
-     You can verify this certification on my profile at <a href="https://www.credly.com/users/stiven-gomez-mazo" style="text-decoration:none; color:red;">Credly</a>.
+     You can verify this certification on my profile at <a href="https://www.credly.com/users/stiven-gomez-mazo" style="text-decoration:none; color:red;">Credly</a>
 </div>
 
 
