@@ -61,12 +61,8 @@
 ![Windsurf](https://img.shields.io/badge/Windsurf-00AEEF?style=for-the-badge&logo=windicss&logoColor=white)
 ![AI](https://img.shields.io/badge/Artificial_Intelligence-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
 
-
-
 <br>
 <br>
-
- 
  
 <h2>🧰 &nbsp;Version Controll & Tools  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="38">&nbsp;</h2>
 
@@ -83,10 +79,8 @@
 ![Antigravity IDE](https://img.shields.io/badge/Antigravity%20IDE-1A1A24?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
-
 <br>
 <br>
-
  
 <h2>&nbsp;⚡Coding Activity &nbsp;</h2>
 
@@ -109,7 +103,6 @@
 <br>
 <br>
 
-
 ## 🧑🏻‍🏫 Some of the certifications
 
 <div align='center'>
@@ -124,17 +117,14 @@
      You can verify this certification on my profile at <a href="https://www.credly.com/users/stiven-gomez-mazo" style="text-decoration:none; color:red;">Credly</a>
 </div>
 
-
 <br>
 <br>
-
 
 ## 🖊️ Activity log
 
 <p align="center">
   <img src="https://github.com/TpLink777/TpLink777/blob/output/github-snake-dark.svg" alt="snake" />
 </p>
-
 
 <br>
 <br>
@@ -144,7 +134,6 @@
 <br>
 
 ![Github Activity Graph](https://github-readme-activity-graph-nu-five.vercel.app/graph?username=TpLink777&theme=radical)
-
 
 <br>
 <br>
