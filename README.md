@@ -123,7 +123,7 @@
 ## 🖊️ Activity log
 
 <p align="center">
-  <img src="https://github.com/TpLink777/TpLink777/blob/output/github-snake-dark.svg" alt="snake" />
+  <img src="https://github.com/TpLink777/TpLink777/blob/output/github-snake-dark.svg" alt="snake"/>
 </p>
 
 <br>
