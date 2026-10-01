@@ -1,6 +1,7 @@
+
 <p align="center">
   <a href="https://arjuncvinod.github.io">
-    <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif"alt="MasterHead">
+    <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" alt="MasterHead">
   </a>
 </p>
 
@@ -10,7 +11,7 @@
 
 <br/>
 
-<h2>👨🏻‍💻 About me <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="32">&nbsp;</h2>
+<h2>👨🏻‍💻 About me <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="32">&nbsp; </h2>
 <br>
 
 🎓 **Software Analysis and Development Technologist** (Internship/Practicum successfully completed).\
