@@ -81,7 +81,7 @@
 <br>
 <br>
  
-<h2>&nbsp;⚡Coding Activity &nbsp;</h2>
+<h2>&nbsp;⚡Coding Activity &nbsp; </h2>
 
 <br>
 
