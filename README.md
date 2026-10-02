@@ -86,7 +86,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TpLink777&theme=radical" alt="Profile Details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TpLink777&theme=radical" alt="Profile Details" />
 </div>
 
 <div align="center">
@@ -95,7 +95,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TpLink777&theme=radical" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TpLink777&theme=radical" alt="Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TpLink777&theme=radical&utcOffset=8" alt="Productive Time" />
 </div>
 
