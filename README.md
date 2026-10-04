@@ -6,7 +6,7 @@
 </p>
 
 <h2 align="left"> Hello, I'm Stiven Gómez Mazo <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><img align="right"src="https://komarev.com/ghpvc/?username=TpLink777&label=Profile%20views&color=blueviolet&style=for-the-badge&logo=eye" alt="TpLink777" />
-<img height="50" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">
+<img height="50" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif" >
 </h2> 
 
 <br/>
