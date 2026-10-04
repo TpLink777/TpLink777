@@ -63,7 +63,7 @@
 <br>
 <br>
  
-<h2>🧰 &nbsp;Version Controll & Tools <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="38">&nbsp;</h2>
+<h2>🧰 &nbsp;Version Controll & Tools <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="38">&nbsp; </h2>
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
@@ -105,7 +105,7 @@
 ## 🧑🏻‍🏫 Some of the certifications
 
 <div align='center'>
-  <h3>Scrum Foundation - Agility Business - CertiProf®</h2>
+  <h3>Scrum Foundation - Agility Business - CertiProf® </h2>
 </div>
 <div align="center">
   <img src="https://github.com/TpLink777/certificaciones/blob/main/scrum-foundation-learner.png?raw=true" width="200" />
