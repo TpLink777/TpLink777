@@ -11,7 +11,7 @@
 
 <br/>
 
-<h2>👨🏻‍💻 About me <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="32" >&nbsp; </h2>
+<h2>👨🏻‍💻 About me <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="32">&nbsp;</h2>
 <br>
 
 🎓 **Software Analysis and Development Technologist** (Internship/Practicum successfully completed).\
@@ -24,7 +24,7 @@
 ✉️ Drop me a line at **stivengomezmazo7@gmail.com** (I'll get back to you as soon as possible).\
 ⚡ **Fun fact:** I always have a side project running to immediately put theory into practice.
 
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" alt="Night Coding" align="right" width="330" />
+<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" alt="Night Coding" align="right" width="330"/>
 
 <br>
 <br>
