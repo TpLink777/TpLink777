@@ -19,6 +19,7 @@
 🚀 **Core Interests:** Backend Development, web architecture, database management, and infrastructure optimization.\
 ✍️ **In my free time:** I build personal projects, solve logical coding challenges, and experiment with new tools to stay ahead of tech trends.
 
+
 ### 🌐 Let's Connect!
 💬 Feel free to reach out if you have an open position, a question, or want to collaborate on a project.\
 ✉️ Drop me a line at **stivengomezmazo7@gmail.com** (I'll get back to you as soon as possible).\
